@@ -13,7 +13,7 @@ BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:      noarch
 BuildRequires:  java-rpmbuild
 BuildRequires:  eclipse-pde, eclipse-swt
-BuildRequires:  jsch
+BuildRequires:  jsch, zip
 Requires:       eclipse-platform
 
 %description
