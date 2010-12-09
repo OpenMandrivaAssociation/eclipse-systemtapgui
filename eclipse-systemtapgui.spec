@@ -2,7 +2,7 @@
 
 Name:           eclipse-systemtapgui
 Version:        1.0
-Release:        %mkrel 2
+Release:        %mkrel 3
 Summary:        Eclipse plugins for SystemTap
 
 Group:          Development/Other
