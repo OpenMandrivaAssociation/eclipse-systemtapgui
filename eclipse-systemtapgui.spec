@@ -2,7 +2,7 @@
 
 Name:           eclipse-systemtapgui
 Version:        1.1
-Release:        2
+Release:        4
 Summary:        Eclipse plugins for SystemTap
 
 Group:          Development/Java
