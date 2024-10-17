@@ -7,7 +7,7 @@ Summary:        Eclipse plugins for SystemTap
 
 Group:          Development/Java
 License:        EPL
-URL:            http://stapgui.sourceforge.net/
+URL:            https://stapgui.sourceforge.net/
 Source0:        org.eclipse.linuxtools.systemtap.src.tar.gz 
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 BuildArch:      noarch
